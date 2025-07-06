@@ -88,15 +88,15 @@ Product Mix: Scale high-margin products like AQ Trigger (27.08% GM).
 
 
 6.Screenshots / Demos
-1.Finance view : https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Finance%20view.png
+1.Finance view : (https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Finance%20view.png)
 
-2.Sales view :https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Sales%20view.png
+2.Sales view :(https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Sales%20view.png)
 
-3.Market view:https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Market%20view.png
+3.Market view:(https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Market%20view.png)
 
-4.Supplychain view:https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Supply%20chain.png
+4.Supplychain view:(https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Supply%20chain.png)
 
-5.Executive view:https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Executive%20view.png
+5.Executive view:(https://github.com/DhanushKumarMeesala/Business_Performance_360/blob/main/Executive%20view.png)
 
 
 
