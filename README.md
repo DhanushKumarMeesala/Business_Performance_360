@@ -1,9 +1,11 @@
 # Business_Performance_360
 1. Project Title / Headline
+
  Business Performance 360 Dashboard
 A comprehensive, interactive analytics tool designed to provide executives and stakeholders with a 360-degree view of business performance across sales, finance, supply chain, and marketing.
 
 2. Short Description / Purpose
+
 The Business Performance 360 Dashboard consolidates key metrics from multiple business dimensions—net sales, gross margin, profitability, supply chain risk, and customer/product performance—into a unified visual interface. It empowers decision-makers to identify trends, risks, and opportunities across regions, customers, and product segments in real time.
 
 3. Tech Stack
